@@ -1,0 +1,33 @@
+body {
+    margin: 10;
+    color: #8fbdef;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+
+#hero {
+    background-image: url("https://media.tenor.com/jKE-CQ_fhbkAAAAd/space.gif");
+    background-size: cover;
+    padding: 50px 100px 100px 100px;
+}
+
+#main-logo {
+    width: 100px;
+}
+
+#title {
+    text-shadow: px 0px 4px black;
+}
+
+.btn {
+    padding: 6px 12px;
+    background: white;
+    border: none;
+    font-family: 'Orbitron', sans-serif;
+    color: #0e4c8e;
+    font-weight: 800;
+}
+
+.underline {
+    border-bottom: 4px solid white;
+}
